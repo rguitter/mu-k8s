@@ -5,9 +5,9 @@
 
 # Some commands
 
-`minikube ssh`
-`kubectl get pod -o wid`
-`watch kubectl get po`
+* `minikube ssh`
+* `kubectl get pod -o wid`
+* `watch kubectl get po`
 
-`kubectl get service`
-`kubectl get rs`
+* `kubectl get service`
+* `kubectl get rs`
